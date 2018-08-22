@@ -1,0 +1,24 @@
+{
+	"packages":
+	[
+		{
+			"name":"Powertx boards",
+			"maintainer":"Powertx",
+			"websiteURL":"kys",
+			"email":"eduardsrudz@gmail.com",
+			"help":
+			{
+				"online":"http://www.google.com";
+			},
+			"platforms":
+			[
+			{
+				"name":"PowerTech Boards",
+				"architecture":"avr",
+				"version":"1.0.0",
+				"category";"Contributed"
+			}
+			]
+		}
+	]
+}
