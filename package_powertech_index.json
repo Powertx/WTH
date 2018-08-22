@@ -48,7 +48,7 @@
           },
           "url": "https://github.com/Powertx/WTH/blob/master/boards.zip",
           "archiveFileName": "boards.zip",
-          "checksum": "SHA-256:FD516DD2D184893FD8FF807CC656F45B0005015CEC7CCE0E3285651692A5E3FB",
+          "checksum": "SHA-256:fd516dd2d184893fd8ff807cc656f45b0005015cec7cce0e3285651692a5e3fb",
           "size": "527487",
           "boards": [
             {"name": "Ethduino ONE"},
