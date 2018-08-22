@@ -1,29 +1,29 @@
 {
   "packages": [
     {
-      "name": "myboard",
-      "maintainer": "Jane Developer",
-      "websiteURL": "https://github.com/janedeveloper/myboard",
-      "email": "jane@janedeveloper.org",
+      "name": "PowerTech Boards",
+      "maintainer": "PowerTx",
+      "websiteURL": "http://www.ejdirst.lv/",
+      "email": "eduardsrudz@gmail.com",
       "help": {
-        "online": "http://janedeveloper.org/forum/myboard"
+        "online": "http://www.google.com/"
       },
       "platforms": [
         {
-          "name": "My Board",
+          "name": "PowerTech",
           "architecture": "avr",
           "version": "1.0.0",
           "category": "Contributed",
           "help": {
-            "online": "http://janedeveloper.org/forum/myboard"
+            "online": "http://www.google.com/"
           },
-          "url": "https://janedeveloper.github.io/myboard/myboard-1.0.0.zip",
-          "archiveFileName": "myboard-1.0.0.zip",
-          "checksum": "SHA-256:ec3ff8a1dc96d3ba6f432b9b837a35fd4174a34b3d2927de1d51010e8b94f9f1",
-          "size": "15005",
+          "url": "https://github.com/Powertx/WTH/blob/master/boards.zip",
+          "archiveFileName": "boards.zip",
+          "checksum": "SHA-256:FD516DD2D184893FD8FF807CC656F45B0005015CEC7CCE0E3285651692A5E3FB",
+          "size": "527487",
           "boards": [
-            {"name": "My Board"},
-            {"name": "My Board Pro"}
+            {"name": "Ethduino ONE"},
+            {"name": "HAMMER"}
           ],
           "toolsDependencies": [
             {
@@ -39,20 +39,20 @@
           ]
         },
         {
-          "name": "My Board",
+         "name": "PowerTech",
           "architecture": "avr",
           "version": "1.0.1",
           "category": "Contributed",
           "help": {
-            "online": "http://janedeveloper.org/forum/myboard"
+            "online": "http://www.google.com/"
           },
-          "url": "https://janedeveloper.github.io/myboard/myboard-1.0.1.zip",
-          "archiveFileName": "myboard-1.0.1.zip",
-          "checksum": "SHA-256:9c86ee28a7ce9fe33e8b07ec643316131e0031b0d22e63bb398902a5fdadbca9",
-          "size": "15125",
+          "url": "https://github.com/Powertx/WTH/blob/master/boards.zip",
+          "archiveFileName": "boards.zip",
+          "checksum": "SHA-256:FD516DD2D184893FD8FF807CC656F45B0005015CEC7CCE0E3285651692A5E3FB",
+          "size": "527487",
           "boards": [
-            {"name": "My Board"},
-            {"name": "My Board Pro"}
+            {"name": "Ethduino ONE"},
+            {"name": "HAMMER"}
           ],
           "toolsDependencies": [
             {
