@@ -1,5 +1,6 @@
 {
-  "packages": [
+  "packages": 
+  [
     {
       "name": "PowerTech",
       "maintainer": "Powertx",
@@ -8,7 +9,8 @@
       "help": {
         "online": "http://www.google.com/"
       },
-      "platforms": [
+      "platforms": 
+	  [
         {
           "name": "PowerTech Boards",
           "architecture": "avr",
@@ -25,7 +27,8 @@
             {"name": "Ethduino ONE"},
             {"name": "HAMMER"}
           ],
-          "toolsDependencies": [
+          "toolsDependencies": 
+		  [
             {
               "packager": "arduino",
               "name": "avr-gcc",
